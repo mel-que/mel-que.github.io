@@ -7,11 +7,11 @@ keywords: "your keywords, separated by commas"
 skills: "Geospatial Scientist - Climate & Environmental Scientist - Data Visualization"
 # meta_author: LastName FirstName
 
-# Google webmaster tools
-google_verify:
+# # Google webmaster tools
+# google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
