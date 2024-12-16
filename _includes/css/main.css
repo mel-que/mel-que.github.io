@@ -47,7 +47,7 @@ hr.star-primary {
     overflow: visible;
 }
 
-hr.star-light:after,
+/* hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -56,25 +56,25 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
-}
+} */
 
 hr.star-light {
     border-color: #fff;
 }
 
-hr.star-light:after {
+/* hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
-}
+} */
 
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
 }
 
-hr.star-primary:after {
+/* hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
-}
+} */
 
 .img-centered {
     margin: 0 auto;
