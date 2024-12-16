@@ -1,11 +1,9 @@
 ---
 ---
+$primary-color: #007bff;
 @import "{{site.theme}}";
 
-// /* Add background color to the header content */
+/* Additional custom styles */
 .wrapper {
-  background-color: #007bff; /* Blue background */
-  color: white; /* White text color */
-  // padding: 20px; /* Padding around the content */
-  // border-radius: 8px; /* Optional: rounded corners */
+  background-color: $primary-color; /* Use the customized primary color */
 }
