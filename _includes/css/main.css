@@ -273,6 +273,7 @@ section.success {
       flex-flow: row wrap;
       align-items: stretch;
       justify-content: center; /*flex-start, flex-end, space-between, space-around, space-evenly;*/
+      gap: 20px; /* Adds 20px gap between items */
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
