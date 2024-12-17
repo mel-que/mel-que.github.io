@@ -76,6 +76,20 @@ hr.star-primary {
     background-color: #fff;
 } */
 
+hr.star-dot {
+    margin: 15px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: dotted 15px;
+    text-align: center;
+    overflow: visible;
+}
+
+hr.star-dot {
+    border-color: #{{ site.color.secondary }};
+}
+
 .img-centered {
     margin: 0 auto;
 }
