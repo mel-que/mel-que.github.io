@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Research Website
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2024-01-01
+img: qrg_web.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: data_visualization
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2024
+client: QRG
+category: web_design
+description: During my time at Tulane University, I designed a website for my research group to increase engagement with alumni and prospective students and collaborators. Visit the Quaternary Research Group website here: [https://qrg.wp.tulane.edu/](https://qrg.wp.tulane.edu/)
 ---
