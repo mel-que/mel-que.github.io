@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 2024
 client: QRG
 category: web_design
-description: During my time at Tulane University, I designed a website for my research group to increase engagement with alumni and prospective students and collaborators. Visit the Quaternary Research Group website here: [https://qrg.wp.tulane.edu/](https://qrg.wp.tulane.edu/)
+description: During my time at Tulane University, I designed a website for my research group to increase engagement with alumni and prospective students and collaborators. Visit the [Quaternary Research Group website](https://qrg.wp.tulane.edu/)
 ---
