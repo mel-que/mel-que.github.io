@@ -1,9 +1,9 @@
 # Site settings
-title: Testing Title
-email: your-email@domain.com
+title: FirstName LastName
+# email: your-email@domain.com
 # url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Personal website" # You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+# keywords: "your keywords, separated by commas"
 skills: "Geospatial Scientist - Climate & Environmental Scientist - Data Visualization"
 # meta_author: LastName FirstName
 
@@ -25,14 +25,14 @@ skills: "Geospatial Scientist - Climate & Environmental Scientist - Data Visuali
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 9fa0a1 #18bc9c #80B3FF
-  primary-rgb: "159, 160, 161" #"24,288,156" #"128,179,255"
-  secondary: 01052e #2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 9fa0a1 #18bc9c #80B3FF # medium gray
+  primary-rgb: "159, 160, 161" #"24,288,156" #"128,179,255" #medium gray
+  secondary: 01052e #2c3e50 #FD6E8A #navy blue
+  secondary-dark: 01052e #233140 #A2122F #navy blue
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright:
   # location: Location
   # social: Around the Web
   # credits: Credits
