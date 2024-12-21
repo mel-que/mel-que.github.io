@@ -7,5 +7,7 @@ alt: image-alt
 project-date: 2024
 client: Thesis
 category: gis
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description_1: Vegetation survival in subtropical climate can be impacted by prolonged cold weather. A day is considered freezing if the minimum temperature is less than or equal to 0 degrees Celsius. The Enhanced Vegetation Index (EVI) is a satellite-derived measurement that quantifies vegetation greenness (higher EVI values represent more greenness). It is anticipated that more freezing days per year would decrease EVI.
+description_2: The visual depicts that there is overall no strong correlation between number of freezing days and EVI values.
+
 ---
