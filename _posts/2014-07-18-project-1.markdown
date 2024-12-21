@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Freezing Days Correlation
 date: 2024-01-01
 img: freezingDays.jpg
 alt: image-alt
