@@ -17,25 +17,28 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             <hr class="star-dot">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
+            {% if post.description_1 %}
+            <p> <strong> Context: </strong> {{ post.description_1 }}</p>
+            {% endif %}
+            {% if post.description_2 %}
+            <p> <strong> Purpose: </strong> {{ post.description_2 }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Client:
+              <li>Source:
                 <strong>{{ post.client }}</strong>
               </li>
-              {% endif %}
-              {% if post.project-date %}
-              <li>Date:
+<!--               {% endif %}
+              {% if post.project-date %} -->
+<!--               <li>Date:
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
               {% if post.category %}
               <li>Service:
                 <strong>{{ post.category }}</strong>
-              </li>
-              {% endif %}
+              </li> -->
+<!--               {% endif %} -->
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
