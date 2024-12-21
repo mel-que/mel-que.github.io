@@ -8,5 +8,4 @@ project-date: 2024
 client: Thesis
 category: gis
 description-1: Hello
-description-2: Each of these areas possessed event(s) that likely contributed to the shifts in the EVI trend between the first and second decades of the 21st century. The events are typically categorized as follows: hydrologic restoration efforts in (A), (C), and (D), land fragmentation in (B), wetland class conversion in (E).
 ---
