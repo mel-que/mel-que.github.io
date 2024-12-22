@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 title: "Citi Bike Patterns"
-date: 2024-01-01
+date: 2024-05-06
 img: citi-bike.png
 alt: image-alt
 project-date: 2024
