@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 8
 title: "Distribution Plots"
 date: 2024-01-01
 img: distribution.jpg
