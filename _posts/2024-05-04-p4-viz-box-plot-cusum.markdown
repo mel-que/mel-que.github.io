@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 title: "Summarizing Data"
-date: 2024-01-01
+date: 2024-05-04
 img: boxplotCusum.jpg
 alt: image-alt
 project-date: 2024
