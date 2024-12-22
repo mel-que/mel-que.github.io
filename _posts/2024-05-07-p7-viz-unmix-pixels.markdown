@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 title: "Conceptual Visual"
-date: 2024-01-01
+date: 2024-05-07
 img: unmixPixels.jpg
 alt: image-alt
 project-date: 2024
