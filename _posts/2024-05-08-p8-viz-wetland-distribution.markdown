@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 title: "Distribution Plots"
-date: 2024-01-01
+date: 2024-05-08
 img: distribution.jpg
 alt: image-alt
 project-date: 2024
