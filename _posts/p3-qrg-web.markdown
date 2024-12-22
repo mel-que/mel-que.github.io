@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Research Website"
 modal-id: 3
+title: "Research Website"
 date: 2024-01-01
 img: qrg_web.png
 alt: image-alt
