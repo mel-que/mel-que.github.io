@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 title: "EVI Trend Map"
 date: 2024-01-01
 img: eviTrendMap.jpg
