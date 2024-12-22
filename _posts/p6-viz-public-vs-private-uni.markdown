@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 6
 title: "Public vs. Private Universities"
 date: 2024-01-01
 img: public-vs-private-uni.png
