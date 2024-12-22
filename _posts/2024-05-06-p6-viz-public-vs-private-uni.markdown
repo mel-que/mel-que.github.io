@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 title: "Public vs. Private Universities"
-date: 2024-05-07
+date: 2024-05-06
 img: public-vs-private-uni.png
 alt: image-alt
 project-date: 2024
