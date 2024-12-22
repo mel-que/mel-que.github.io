@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 4
 thesis: "Summarizing Data"
 date: 2024-01-01
 img: boxplotCusum.jpg
