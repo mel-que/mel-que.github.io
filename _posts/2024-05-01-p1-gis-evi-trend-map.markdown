@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: "EVI Trend Map"
-date: 2024-01-01
+date: 2024-05-01
 img: eviTrendMap.jpg
 alt: image-alt
 project-date: 2024
