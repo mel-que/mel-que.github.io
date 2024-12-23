@@ -3,7 +3,8 @@ layout: default
 modal-id: 5
 title: "Citi Bike Patterns"
 date: 2024-05-05
-img: citi-bike.png
+img: citi-bike-1.png
+img-2: citi-bike-2.png
 alt: image-alt
 project-date: 2024
 client: Infographics
