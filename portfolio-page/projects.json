@@ -93,7 +93,7 @@
     "imageSrc3": "images/website-ex-3.png",
     "desc": "personal website",
     "title": "Personal Website Example",
-    "context": "One can use this multi-page personal website layout that includes a header that displays their name and skills, an about section, and a portfolio page. The portfolio page allows the user to group projects into collapsible sections. Each project can display an image, a title, and/or description.",
+    "context": "One can use this multi-page personal website layout that includes a header that displays their name and skills, an about section, and a portfolio page. The portfolio page allows the user to group projects into collapsible sections. Each project can display an image, a title, and/or description. Visit: https://mel-que.github.io/web-development/personal-site-example/index.html",
     "application": "HTML, CSS, JavaScript",
     "projectType": "Web Development"
   }
