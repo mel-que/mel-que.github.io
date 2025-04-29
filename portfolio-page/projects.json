@@ -1,0 +1,98 @@
+[
+  {
+    "imageSrc": "images/eviTrendMap.jpg",
+    "desc": "evi trend map",
+    "title": "EVI Trend Map",
+    "context": "The U.S. Gulf Coast has observed rates of mean sea-level rise exceeding 10 mm per year since 2010. The Enhanced Vegetation Index (EVI) is a satellite-derived measurement that quantifies vegetation greenness (higher EVI values represent more greenness). The EVI trends of the first decade are compared with those of the second decade to identify any regional areas along the Louisiana Coast that may be impacted by sea-level rise.",
+    "purpose": "Each of these areas possessed event(s) that likely contributed to the shifts in the EVI trend between the first and second decades of the 21st century. The events are typically categorized as follows: hydrologic restoration efforts in (A), (C), and (D), land fragmentation in (B), wetland class conversion in (E).",
+    "application": "ArcGIS",
+    "projectType": "GIS",
+    "subType": "Environmental"
+  },
+  {
+    "imageSrc": "images/freezingDays.jpg",
+    "desc": "freezing days correlation",
+    "title": "Freezing Days Correlation",
+    "context": "Vegetation survival in subtropical climate can be impacted by prolonged cold weather. A day is considered freezing if the minimum temperature is less than or equal to 0 degrees Celsius. The Enhanced Vegetation Index (EVI) is a satellite-derived measurement that quantifies vegetation greenness (higher EVI values represent more greenness). It is anticipated that more freezing days per year would decrease EVI.",
+    "purpose": "The visual depicts that there is overall no strong correlation between number of freezing days and EVI values.",
+    "application": "ArcGIS",
+    "projectType": "GIS",
+    "subType": "Environmental"
+  },
+  {
+    "imageSrc": "images/worktransport_by_zip.png",
+    "desc": "public transportation distribution",
+    "title": "Public Transportation",
+    "context": "Selected Illinois counties (Will, Lake, DuPage, and Cook) are displayed with the commuter rail line and the L train system. Zip codes are colorized based on the percentage of workers that utilize public transportation to travel to work. Public buses are not visualized, but are included in the percentage.",
+    "purpose": "Residents in zip codes that surround the public transportation system, especially within the Chicago metropolitan area, utilize public transportation greatly. Motor vehicles are utilized in suburban areas, where public transportation is not abundant.",
+    "application": "QGIS",
+    "projectType": "GIS",
+    "subType": "Socioeconomic"
+  },
+  {
+    "imageSrc": "images/boxplotCusum.jpg",
+    "desc": "summarizing data",
+    "title": "Summarizing Data",
+    "context": "The Enhanced Vegetation Index (EVI) is a satellite-derived measurement that quantifies vegetation greenness (higher EVI values represent more greenness). A site is represented by the median EVI value from pixels within 105 meters. The visual summarizes the EVI for 176 sites across the Louisiana coast from 2000 to 2020.",
+    "purpose": "When summarizing all sites across the Louisiana coast, EVI values in the first decade of the 21st century is overall lower than that in the second decade.",
+    "application": "Python",
+    "projectType": "Data Visualization",
+    "subType": "Environmental"
+  },
+  {
+    "imageSrc": "images/citi-bike-1.png",
+    "imageSrc2": "images/citi-bike-2.png",
+    "desc": "citi bike patterns",
+    "title": "Citi Bike Patterns",
+    "context": "The Citi Bike program is New York City's bike-sharing system consisting of a network of short-term rental bicycles with various docking stations across the city. The first dashboard is an overall picture of the number of trips taken throughout 2017. The second dashboard looks at 3 different categories (starting ride times in a 24-hour day, user and gender type, and generations).",
+    "application": "Tableau",
+    "projectType": "Data Visualization",
+    "subType": "Socioeconomic"
+  },
+  {
+    "imageSrc": "images/public-vs-private-uni.png",
+    "desc": "university comparison",
+    "title": "Public vs. Private Universities",
+    "context": "The statistics, such as graduation rate and financial aid, for the top 10 public and top 10 private universities according to U.S. News 2019 ranking are compared. The dashboard contains interactive features to distinguish private and public universities and the school year.",
+    "application": "Tableau",
+    "projectType": "Data Visualization",
+    "subType": "Socioeconomic"
+  },
+  {
+    "imageSrc": "images/unmixPixels.jpg",
+    "desc": "pixel visual",
+    "title": "Conceptual Visual",
+    "context": "Raster data (such as images) contain several pixels of a certain resolution (pixel size). The pixels represent an average value of the features within its area.",
+    "purpose": "The visualization explains the concept of unmixing pixels, which breaks down the average value of a pixel to reveal the fractional composition of different features inside it. This process helps us reveal the true diversity of features (e.g., land and water) within each pixel, enabling more precise image interpretation, such as pixel classification.",
+    "application": "Adobe Illustrator",
+    "projectType": "Data Visualization",
+    "subType": "Socioeconomic"
+  },
+  {
+    "imageSrc": "images/distribution.jpg",
+    "desc": "distribution plots",
+    "title": "Distribution Plots",
+    "context": "The Enhanced Vegetation Index (EVI) is a satellite-derived measurement that quantifies vegetation greenness (higher EVI values represent more greenness). The wetland class of a pixel is assigned by overlaying it with a map of wetland classifications derived from field surveys in Louisiana.",
+    "purpose": "Wetland classes can be distinguished based on EVI values. This is due to different the plant species, which may vary in color and structure.",
+    "application": "Python",
+    "projectType": "Data Visualization",
+    "subType": "Environmental"
+  },
+  {
+    "imageSrc": "images/qrg_web.png",
+    "desc": "research website",
+    "title": "Research Website",
+    "context": "During my time at Tulane University, I designed a website for my research group to increase engagement with alumni and prospective students and collaborators. Visit: https://qrg.wp.tulane.edu/",
+    "application": "WordPress",
+    "projectType": "Web Development"
+  },
+  {
+    "imageSrc": "images/qrg_web.png",
+    "desc": "personal website",
+    "title": "Personal Website Example",
+    "context": "One can use this multi-page personal website layout that includes a header that displays their name and skills, an about section, and a portfolio page. The portfolio page allows the user to group projects into collapsible sections. Each project can display an image, a title, and/or description.",
+    "application": "HTML, CSS, JavaScript",
+    "projectType": "Web Development"
+  }
+]
+  

@@ -1,0 +1,208 @@
+/* Import colors.css */
+@import url('./colors.css');
+
+/* Navigation bar style */
+.navbar {
+    background-color: var(--bar-color);
+    color: var(--primary-color);
+    font-family: "Fira Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.navbar-brand, 
+.nav-link {
+    color: var(--primary-color);
+}
+.navbar-brand:hover, 
+.nav-link:hover {
+    color: var(--secondary-color);
+}
+
+.navbar-toggler {
+    border-color: var(--primary-color);
+}
+.navbar-toggler-icon {
+    filter: invert(1) grayscale(100%) brightness(100%) contrast(100%);
+}
+
+.navbar-toggler:hover {
+    background-color: var(--secondary-color);
+}
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+/* Portfolio section style */
+section#portfolio {
+    font-family: "Fira Sans",sans-serif;
+    color: var(--secondary-color);
+    background: var(--background-color);
+    min-height: 100vh;
+    display: block;
+}
+
+.portfolio-head h2 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 0;
+    font-size: 3rem;
+}
+
+hr.wide-accent {
+    margin: 40px auto;
+    padding: 0;
+    width: 100%;
+    border: 0;
+    border: solid 3px;
+    text-align: center;
+    overflow: visible;
+    color: var(--primary-color);
+    opacity: 0.75;
+}
+
+
+.projectTitle {
+    color: var(--background-color);
+    text-align: left;
+}
+
+.projectDetails {
+    font-size: 1rem;
+    color: var(--background-color);
+}
+
+.btn {
+    font-size: 2rem;
+    background-color: var(--bar-color) !important;
+    color: var(--background-color) !important;
+    border-radius: 0;
+    border-color: var(--background-color) !important;
+}
+
+.btn-outline-primary {
+    font-size: 2rem;
+    background-color: var(--background-color) !important;
+    color: var(--secondary-color) !important;
+    border-color: var(--secondary-color) !important;
+}
+
+.btn-custom-cat {
+    font-size: 2rem;
+    background-color: var(--background-color);
+    color: var(--bar-color);
+    border-color: var(--bar-color);
+}
+
+.btn-custom-cat:hover {
+    background-color: #c94e28;  /* Hover effect (darken the background) */
+    border-color: #c94e28;  /* Hover effect (darken the border) */
+}
+
+.btn-custom-sub {
+    font-size: 1.5rem;
+    background-color: var(--background-color) !important;
+    color: var(--secondary-color) !important;
+    border-color: var(--secondary-color) !important;
+    border-radius: 0;
+}
+
+.card {
+    border-radius: 0;
+}
+
+.card-body {
+    background-color: var(--primary-color);
+}
+
+.d-flex{
+    flex-direction: column;
+    align-content: center;
+}
+
+.card-img-left {
+    width: 100%; 
+    height: 300px;
+    object-fit: contain;
+    padding: 1rem;
+}
+
+.carousel-control-prev-icon {
+background-color: gray;
+  position: absolute; 
+  left: 0;
+}
+.carousel-control-next-icon {
+  background-color: gray;
+  position: absolute; 
+  right: 0;
+}
+
+/* Make the images inside the carousel have a maximum width of 90% */
+.carousel-item img {
+    max-width: 90%; /* Limit the image width to 90% of the carousel */
+    height: auto; /* Maintain the aspect ratio of the image */
+    margin: 0 auto; /* Center the image horizontally */
+    display: block; /* Make the image behave like a block-level element */
+}
+
+
+@media (min-width: 768px) {
+    .d-flex{
+        flex-direction: row;
+        align-content: center;
+    }
+    
+    .card-img-left {
+        width: 50%; 
+        /* height: 500px; */
+        object-fit: contain;
+        padding: 1rem;
+    }
+    .card-body {
+        width: 50%;
+    }
+}
+
+
+/* Footer section style */
+footer {
+    color: var(--primary-color);
+    padding: 25px 0;
+    background-color: var(--bar-color);
+}
+
+.footer-text p {
+    margin: 0;
+    font-size: 10px;
+}
+
+/* Scroll button section style */
+/* location of button */
+.scroll-top {
+    z-index: 1049;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    width: 50px;
+    height: 50px;
+}
+
+/* appearance of button */
+.scroll-top .btn,
+.scroll-top .btn i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    font-size: 30px;
+    color: var(--primary-color);
+}
