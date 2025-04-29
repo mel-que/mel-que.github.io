@@ -30,6 +30,16 @@
     "subType": "Socioeconomic"
   },
   {
+    "imageSrc": "images/us_metro_foodexp.png",
+    "desc": "food expenditure distribution",
+    "title": "US Metro Area Food Expenditure",
+    "context": "The food expenditure of major US metro areas are visualized in pie charts. Data is sourced from the consumer expenditures collected by the Bureau of Labor Statistics in 2022-23.",
+    "purpose": "Differences and similarities in different food expenditure categories across the US metro areas exist. To understand food expenditure habits, further analysis can include lifestyle habits.",
+    "application": "QGIS",
+    "projectType": "GIS",
+    "subType": "Socioeconomic"
+  },
+  {
     "imageSrc": "images/boxplotCusum.jpg",
     "desc": "summarizing data",
     "title": "Summarizing Data",
