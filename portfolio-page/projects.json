@@ -80,6 +80,7 @@
   },
   {
     "imageSrc": "images/qrg_web.png",
+    "imageSrc2": "images/qrg_web_2.png",
     "desc": "research website",
     "title": "Research Website",
     "context": "During my time at Tulane University, I designed a website for my research group to increase engagement with alumni and prospective students and collaborators. Visit: https://qrg.wp.tulane.edu/",
@@ -87,7 +88,9 @@
     "projectType": "Web Development"
   },
   {
-    "imageSrc": "images/qrg_web.png",
+    "imageSrc": "images/website-ex-1.png",
+    "imageSrc2": "images/website-ex-2.png",
+    "imageSrc3": "images/website-ex-3.png",
     "desc": "personal website",
     "title": "Personal Website Example",
     "context": "One can use this multi-page personal website layout that includes a header that displays their name and skills, an about section, and a portfolio page. The portfolio page allows the user to group projects into collapsible sections. Each project can display an image, a title, and/or description.",
