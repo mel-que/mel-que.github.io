@@ -108,11 +108,36 @@
     "projectType": "Web Development"
   },
   {
-    "imageSrc": "images/SRC-poster.pdf",
+    "imageSrc": "images/SRC-poster.png",
     "desc": "poster",
-    "title": "Poster at University Conference",
-    "context": "Poster produced for a conference hosted at a university. Research is from my undergraduate thesis.",
-    "projectType": "Posters"
+    "title": "Assessing Erosion Patterns of Hurricane Maria on the Caribbean Island of Dominica",
+    "context": "Poster presented at University conference. Research is from my undergraduate thesis.",
+    "application": "Microsoft PowerPoint",
+    "projectType": "Poster"
+  },
+  {
+    "imageSrc": "images/AGU-poster.png",
+    "desc": "poster",
+    "title": "Landward translation of global deltaic shorelines during the last deglaciation: Implications for sediment partitioning",
+    "context": "Poster produced for annual American Geophysical Union conference. Research is from a graduate school project.",
+    "application": "Microsoft PowerPoint",
+    "projectType": "Poster"
+  },
+    {
+    "imageSrc": "images/SOC-poster.png",
+    "desc": "poster",
+    "title": "Analyzing wetland change along the Louisiana Coast during a period of rapid sea-level rise: Part I",
+    "context": "Poster produced for State of the Coast conference. Research is from NASA collaboration.",
+    "application": "Adobe Illustrator",
+    "projectType": "Poster"
+  },
+    {
+    "imageSrc": "images/AGU-OSM-poster.png",
+    "desc": "poster",
+    "title": "Analyzing wetland change along the Louisiana Coast during a period of rapid sea-level rise: Part II",
+    "context": "Poster produced for American Geophysical Union Ocean Science Meeting. Research is from Master's thesis.",
+    "application": "Adobe Illustrator",
+    "projectType": "Poster"
   }
 ]
   
